@@ -1,0 +1,9 @@
+*.sqlite
+*.sqlite-journal
+
+.gitignore
+app/
+database/
+phpunit.xml
+resources/
+routes/
