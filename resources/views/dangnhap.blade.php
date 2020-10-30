@@ -40,7 +40,7 @@
                             </div>
                         @endif
 
-                        <form role="form" action="admin/dangnhap" method="POST">
+                        <form role="form" action="" method="POST">
                             {{-- @csrf  --}}
                             {{ csrf_field() }}
                             {{-- <input type="hidden" name="_token" value="{{csrf_token()}}" /> --}}
@@ -53,6 +53,8 @@
                                 </div>
                                 {{-- <button type="submit" class="btn btn-lg btn-success btn-block">Login</button> --}}
                                 <a href="auth/google"> login</a>
+                                <br>
+                                <a href="gg">forgot Password</a>
                             </fieldset>
                         </form>
                     </div>

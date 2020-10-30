@@ -20,6 +20,7 @@
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.0",
         "livewire/livewire": "^2.0",
+        "nesbot/carbon": "^2.41",
         "tightenco/ziggy": "^0.9.4"
     },
     "require-dev": {
