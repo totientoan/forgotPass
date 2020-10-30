@@ -1,0 +1,29 @@
+*.sqlite
+*.sqlite-journal
+
+  .editorconfig
+        .env.example
+        .gitattributes
+        .gitignore
+        .history/
+        .styleci.yml
+        
+        .artisan
+        .bootstrap/
+        .composer.json
+        .composer.lock
+        .config/
+        
+        .package-lock.json
+        .package.json
+        .phpunit.xml
+        .public/
+        
+        
+        .server.php
+        .storage/
+        .tailwind.config.js
+        .tests/
+        .webpack.config.js
+        .webpack.mix.js
+
